@@ -6,6 +6,8 @@ Esta é uma API simples construída com Express.js para consultar as condições
 
 ### `GET /weather`
 
+### Utilize algo como http://localhost:3000/weather?São%20Paulo
+
 Consulta o clima de uma cidade específica.
 
 #### Parâmetros
